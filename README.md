@@ -14,12 +14,13 @@
  💬 Before the end of 2022, I would like to be able to solve algorithm questions<br/>
  📫 You can reach me via Linkedin and Gmail<br/>
  ⚡ Fun fact: I like to review the basics of JavaScript and anime<br/>
-</div>
-
-<br/>
+  <br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mireu-san&theme=default&show_icons=true)
+
+
+</div>
 
 
 <!--
