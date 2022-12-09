@@ -3,8 +3,8 @@
 </div>
 <div id="header_bottom" align="center">
   
-  # Greetings, I am Jongwan Kim 👋<br/>
-  ## ✨ Front-End Developer ✨
+  # Greetings, This is Jongwan Kim👋<br/>
+  ## ✨Front-End Developer✨
   
 </div>
 <br/>
