@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="200"/>
 </div>
-
 <div id="header_bottom" align="center">
+  
   # Greetings, I am Jongwan Kim 👋<br/>
   ## ✨ Front-End Developer ✨
+  
 </div>
-
 <br/>
 
 <div id="content" align="center">
