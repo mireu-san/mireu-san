@@ -11,6 +11,7 @@
 
 <div id="content" align="center">
  📫 You can reach me via Linkedin and Gmail<br/>
+ 🔭 일상 개발 이야기는 좌측의 블로그 링크를 참고해주세요.
   <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mireu-san&theme=default&show_icons=true)
