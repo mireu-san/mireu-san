@@ -4,7 +4,7 @@
 <div id="header_bottom" align="center">
   
   # Greetings, This is Jongwan Kim👋<br/>
-  ## ✨Front-End Developer✨
+  ## ✨Junior Web Developer✨
   
 </div>
 <br/>
