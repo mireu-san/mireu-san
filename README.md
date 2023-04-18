@@ -5,10 +5,7 @@
   
   # Greetings, This is Jongwan Kim👋<br/>
   ## ✨Junior Web Developer✨
-  
 </div>
-<br/>
-
 <div id="content" align="center">
  📫 You can reach me via Linkedin and Gmail<br/>
  🔭 일상 개발 이야기는 좌측의 블로그 링크를 참고해주세요.
