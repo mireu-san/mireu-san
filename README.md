@@ -3,7 +3,7 @@
 </div>
 <div id="header_bottom" align="center">
   
-  # Greetings, This is Chesed Kim👋<br/>
+  # Greetings, This is Jongwan Kim👋<br/>
   ## ✨Junior Web Developer✨
 </div>
 <div id="content" align="center">
