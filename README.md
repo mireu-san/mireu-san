@@ -8,7 +8,7 @@
 </div>
 <div id="content" align="center">
  📫 You can reach me via Linkedin and Gmail<br/>
- 🔭 일상 개발 이야기는 좌측의 블로그 링크를 참고해주세요.
+ 🔭 Blog will be resumed on September 2024.
   <br/>
 
 </div>
