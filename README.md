@@ -8,7 +8,7 @@
 </div>
 <div id="content" align="center">
  📫 You can reach me via Linkedin and Gmail<br/>
- 🔭 Blog will be resumed on September 2024.
+ 🔭 Blog and the page here will be updated on September 2024.
   <br/>
 
 </div>
