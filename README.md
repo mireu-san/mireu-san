@@ -18,7 +18,10 @@ My experience includes backend development, automation, cloud infrastructure, da
 
 ## Tech Stack
 
-**Languages**
+<details>
+<summary><strong>View Tech Stack</strong></summary>
+
+### Languages
 - Python
 - Go
 - Java
@@ -26,31 +29,33 @@ My experience includes backend development, automation, cloud infrastructure, da
 - SQL
 - Shell
 
-**Backend**
+### Backend
 - FastAPI
 - Falcon
 - Spring Boot
 - Node.js / NestJS
 
-**Cloud / Infrastructure**
+### Cloud / Infrastructure
 - AWS
 - Docker / Podman
 - Kubernetes
 - Ansible
 - Linux
 
-**Database**
+### Database
 - PostgreSQL
 - Redis
 - MySQL
 - MongoDB
 
-**Observability**
+### Observability
 - Splunk
 - Grafana
 - Datadog
 - CloudWatch
 - Elasticsearch
+
+</details>
 
 ## What I Work On
 
