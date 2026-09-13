@@ -73,8 +73,3 @@ My experience includes backend development, automation, cloud infrastructure, da
 - Platform Engineering
 - Automation
 - AI-assisted development
-
-## Contact
-
-- LinkedIn
-- Email
