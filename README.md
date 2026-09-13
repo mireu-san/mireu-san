@@ -1,30 +1,75 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="200"/>
-</div>
-<div id="header_bottom" align="center">
-  
-  # Greetings, This is Jongwan Kim👋<br/>
-  ## ✨Junior Web Developer✨
-</div>
-<div id="content" align="center">
- 📫 You can reach me via Linkedin and Gmail<br/>
-  <br/>
+<div align="center">
+
+# Jongwan Kim
+
+### Software Engineer | Backend, Cloud & Automation
 
 </div>
 
+---
 
-<!--
-**mireu-san/mireu-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Software Engineer currently working as a **DevOps / Automation Engineer** in Tokyo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building tools and systems that improve reliability, reduce repetitive operational work, and make engineering workflows safer and more reproducible.
 
+My experience includes backend development, automation, cloud infrastructure, database improvement, monitoring, and internal developer tooling.
+
+## Tech Stack
+
+**Languages**
+- Python
+- Go
+- Java
+- JavaScript / TypeScript
+- SQL
+- Shell
+
+**Backend**
+- FastAPI
+- Falcon
+- Spring Boot
+- Node.js / NestJS
+
+**Cloud / Infrastructure**
+- AWS
+- Docker / Podman
+- Kubernetes
+- Ansible
+- Linux
+
+**Database**
+- PostgreSQL
+- Redis
+- MySQL
+- MongoDB
+
+**Observability**
+- Splunk
+- Grafana
+- Datadog
+- CloudWatch
+- Elasticsearch
+
+## What I Work On
+
+- Backend and internal web systems
+- Workflow and operational automation
+- Database tooling and SQL optimization
+- AWS-based data processing and integrations
+- Monitoring and incident analysis
+- Developer and operations support tools
+
+## Current Interests
+
+- Backend Engineering
+- Cloud Engineering
+- Platform Engineering
+- Automation
+- AI-assisted development
+
+## Contact
+
+- LinkedIn
+- Email
